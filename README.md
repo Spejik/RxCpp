@@ -159,7 +159,7 @@ To install RxCpp into your OS you need to follow standart procedure:
 mkdir build
 cd build
 cmake ..
-make install 
+sudo make install 
 ```
 
 If you're using the vcpkg dependency manager, you can install RxCpp using a single one-line command:
